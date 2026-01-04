@@ -53,6 +53,3 @@ cd %AppData%\Code\User && find /c "{" keybindings.json && %AppData%\Code\User\ke
     
 <h1>Keybindings.json</h1>
 </div>
-
-```json
-// 116 User's Custom VSCode keybindings:
